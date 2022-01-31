@@ -1,6 +1,6 @@
 {
-  "version": "v2.0",
-  "versionCode": 10,
-  "zipUrl": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/install.zip",
-  "changelog": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/changelog.md"
+  "version": "v1.2",
+  "versionCode": 16,
+  "zipUrl": "https://raw.githubusercontent.com/Oleg-Skalskiy/wifi-opt-boost/main/install.zip",
+  "changelog": "https://raw.githubusercontent.com/Oleg-Skalskiy/wifi-opt-boost/main/changelog.md"
 }
