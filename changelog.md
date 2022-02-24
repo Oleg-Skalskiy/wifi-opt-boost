@@ -3,7 +3,7 @@
 * Improved Wi-Fi stability Fixed
   * Connection errors fixed
   * Fixed strong channel offset
-  * DFS UNSET (Global)
+  * DFS OFF
   * Fixed high power consumption
   * Minor fixes
 
