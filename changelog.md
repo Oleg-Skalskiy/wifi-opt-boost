@@ -1,4 +1,4 @@
-### WiFi Boost&Opt v1.2 - 01.03.2022
+### WiFi Boost&Opt v1.2 - 05.03.2022
 
 * Improved Wi-Fi stability Fixed
   * Connection errors fixed
