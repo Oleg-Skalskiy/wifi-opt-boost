@@ -6,5 +6,5 @@
   * DFS Unset (Global)
   * Fixed high power consumption
   * Fix bootloop
+  * Log OFF
   * Minor fixes
-
