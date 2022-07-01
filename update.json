@@ -1,6 +1,6 @@
 {
-  "version": "v1.2.34",
-  "versionCode": 34,
+  "version": "v1.2",
+  "versionCode": 35,
   "zipUrl": "https://raw.githubusercontent.com/Oleg-Skalskiy/wifi-opt-boost/main/install.zip",
   "changelog": "https://raw.githubusercontent.com/Oleg-Skalskiy/wifi-opt-boost/main/wifi-opt-boost.md"
 }
