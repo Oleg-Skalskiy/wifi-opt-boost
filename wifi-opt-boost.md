@@ -1,10 +1,9 @@
-### WiFi Boost&Opt v1.2 - 23.03.2022
+### WiFi Boost&Opt v1.3 - 09.09.2022
 
 * Improved Wi-Fi stability Fixed
   * Connection errors fixed
-  * Fixed strong channel offset
-  * DFS Unset (Global)
+  * Fixed twt
   * Fixed high power consumption
   * Fix bootloop
-  * Log OFF
+  * Fix VHT
   * Minor fixes
