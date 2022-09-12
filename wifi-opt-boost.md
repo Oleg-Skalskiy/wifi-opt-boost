@@ -1,9 +1,13 @@
-### WiFi Boost&Opt v1.3 - 09.09.2022
+### WiFi Boost&Opt v1.3 - 12.09.2022
 
 * Improved Wi-Fi stability Fixed
   * Connection errors fixed
-  * Fixed twt
   * Fixed high power consumption
   * Fix bootloop
   * Fix VHT
+  * Fix DTIM
+  * NUD Tracking OFF
+  * Enable P2PGO mode
+  * Enable adaptive_dwell_mode
+  * Disable twt responder
   * Minor fixes
