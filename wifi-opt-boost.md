@@ -8,6 +8,6 @@
   * Fix DTIM
   * NUD Tracking OFF
   * Enable P2PGO mode
-  * Enable adaptive_dwell_mode
+  * Enable adaptive dwell mode
   * Disable twt responder
   * Minor fixes
