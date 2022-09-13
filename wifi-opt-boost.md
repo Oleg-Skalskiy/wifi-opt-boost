@@ -10,4 +10,5 @@
   * Enable P2PGO mode
   * Enable adaptive dwell mode
   * Disable twt responder
+  * Disable Roam data rssi threshold triggers
   * Minor fixes
