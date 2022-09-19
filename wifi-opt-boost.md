@@ -1,4 +1,4 @@
-### WiFi Boost&Opt v1.3 - 12.09.2022
+### WiFi Boost&Opt v1.3 - 20.09.2022
 
 * Improved Wi-Fi stability Fixed
   * Connection errors fixed
@@ -8,7 +8,10 @@
   * Fix DTIM
   * NUD Tracking OFF
   * Enable P2PGO mode
-  * Enable adaptive dwell mode
+  * Enable SSDP
+  * Disable Fast Roaming
+  * Disable SNR Monitoring
+  * Disable adaptive dwell mode
   * Disable twt responder
   * Disable Roam data rssi threshold triggers
-  * Minor fixes
+  * Fix Some Error
