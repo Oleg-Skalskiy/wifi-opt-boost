@@ -1,4 +1,4 @@
-### WiFi Boost&Opt v1.3 - 20.09.2022
+### WiFi Boost&Opt v1.3 - 30.10.2022
 
 * Improved Wi-Fi stability Fixed
   * Connection errors fixed
@@ -15,3 +15,6 @@
   * Disable twt responder
   * Disable Roam data rssi threshold triggers
   * Fix Some Error
+  * Disable BPF packet filter (TCP DUMP)
+  * Fix old devices
+  * NAN Features
