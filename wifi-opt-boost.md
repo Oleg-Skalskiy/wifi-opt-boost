@@ -1,4 +1,4 @@
-### WiFi Boost&Opt v1.4 - 01.01.2023
+### WiFi Boost&Opt v1.5 - 23.09.2023
 
 * Improved Wi-Fi stability Fixed
   * Connection errors fixed
@@ -6,5 +6,6 @@
   * Fix bootloop
   * Fix old devices
   * Fix HotSpot
-  * Fix Code
+  * Add New Parametrs for Speed & Stability
+  * Fix Error
 
