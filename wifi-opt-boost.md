@@ -1,4 +1,4 @@
-### WiFi Boost&Opt v1.6 - 01.07.2024
+### WiFi Boost&Opt v1.7 - 02.07.2024
 
 * Improved Wi-Fi stability Fixed
   * Connection errors fixed
@@ -12,6 +12,7 @@
   * Enable WMM without QOS
   * Improved speed
   * LDPC, SMPS, MCC is disabled
+  * Add Bluetooth Options
   * Fix DFS
   * Fix Error
 * General
